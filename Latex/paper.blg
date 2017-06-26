@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: paper.aux
+The style file: ACM-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: refs.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--numpages field, but no articleno or eid field, in Chen:2017:RIM:3025453.3025969
+Warning--numpages field, but no articleno or eid field, in Difallah:2015:DMC:2736277.2741685
+Warning--page numbers missing in both pages and numpages fields in Howe2006
+Warning--empty publisher in 162960
+Warning--page numbers missing in both pages and numpages fields in 162960
+Warning--numpages field, but no articleno or eid field, in vonAhn:2011:THC
+You've used 6 entries,
+            5706 wiz_defined-function locations,
+            1366 strings with 16743 characters,
+and the built_in function-call counts, 7421 in all, are:
+= -- 945
+> -- 216
+< -- 0
++ -- 64
+- -- 124
+* -- 515
+:= -- 722
+add.period$ -- 30
+call.type$ -- 6
+change.case$ -- 39
+chr.to.int$ -- 6
+cite$ -- 12
+duplicate$ -- 577
+empty$ -- 417
+format.name$ -- 84
+if$ -- 1735
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 28
+newline$ -- 97
+num.names$ -- 48
+pop$ -- 242
+preamble$ -- 1
+purify$ -- 69
+quote$ -- 0
+skip$ -- 210
+stack$ -- 0
+substring$ -- 704
+swap$ -- 59
+text.length$ -- 105
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 152
+warning$ -- 6
+while$ -- 49
+width$ -- 0
+write$ -- 158
+(There were 6 warnings)
